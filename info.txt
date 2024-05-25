@@ -1,0 +1,5 @@
+101, Pokhara, North, 4, 50000, Available
+102, Lalitpur, South, 5, 70000, Available
+103, Chitwan, West, 5, 90000, Available
+104, Lumbini, East, 5, 20000, Not Available
+105, Mustang, North, 5, 10000, Available
